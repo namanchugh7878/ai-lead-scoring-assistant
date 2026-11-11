@@ -1,0 +1,6 @@
+name,email,company,source,budget_confirmed,decision_maker,timeline_days,employees
+Aarav Mehta,aarav@example.com,Northstar Labs,Demo Request,True,True,14,120
+Diya Sharma,diya@example.com,BluePeak Retail,LinkedIn,False,True,60,80
+Kabir Singh,kabir@example.com,Orbit Systems,Referral,True,False,30,45
+Mira Patel,mira@example.com,Greenfield Studio,Cold Outreach,False,False,180,12
+Ishaan Verma,ishaan@example.com,Vertex Health,Contact Form,True,True,7,250
